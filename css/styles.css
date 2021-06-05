@@ -6,6 +6,7 @@
 
 body{
   background-color: red;
+  font-family: 'Roboto', sans-serif;
 }
 
 .container {
@@ -42,6 +43,14 @@ body{
   width: 50%;
   height: 50%;
   padding: 60px;
+}
+
+.clock {
+  font-size: 7rem;
+}
+
+.motivational-text {
+  font-size: 2rem;
 }
 
 .actions-container {
