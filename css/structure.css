@@ -29,7 +29,7 @@ header {
 }
 
 .center {
-  min-height: 300px;
+  min-height: calc(100vh - 309px);
   border: 1px solid black;
 }
 
