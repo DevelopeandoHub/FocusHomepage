@@ -1,0 +1,4 @@
+/* Archivo CSS para importar todos los demás css, siempre los de abajo van a ser los que tengan mayor prioridad*/
+
+@import url('globals.css'); /* Estilos globales */
+@import url('mixins.css'); /* Colores y Media Queries */

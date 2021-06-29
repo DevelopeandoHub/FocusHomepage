@@ -1,4 +1,0 @@
-/* Importo todos los css */
-@import url("globals.css");
-@import url("media.css"); /* El orden altera el producto */
-@import url("structure.css");

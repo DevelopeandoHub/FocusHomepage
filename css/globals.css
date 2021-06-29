@@ -1,6 +1,16 @@
-/* Estilos que pisan a todos los estilos */
-*{ 
+* {
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  background: red;
 }
